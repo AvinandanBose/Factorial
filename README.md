@@ -2,6 +2,22 @@
 
 This repository contains a collection of documents that provide an in-depth analysis of the factorial function, including its mathematical background, implementation using stack operations, and time complexity analysis through different methods.
 
+<ul>
+   
+<h3><a href="https://github.com/AvinandanBose/Factorial/blob/main/1.Factorial-Introduction.pdf"> 𝑭𝒂𝒄𝒕𝒐𝒓𝒊𝒂𝒍 -𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏</a> </h3>
+
+<h3><a href="https://github.com/AvinandanBose/Factorial/blob/main/2.Factorial%20-%20Stack-Push%26Pop%20Operation.pdf">𝑭𝒂𝒄𝒕𝒐𝒓𝒊𝒂𝒍 -𝑺𝒕𝒂𝒄𝒌-𝑷𝒖𝒔𝒉 & 𝑷𝒐𝒑 𝒐𝒑𝒆𝒓𝒂𝒕𝒊𝒐𝒏</a> </h3>
+
+<h3><a href="https://github.com/AvinandanBose/Factorial/blob/main/3.Factorial%20Time%20Complexity%20using%20substitution%20method.pdf">𝑭𝒂𝒄𝒕𝒐𝒓𝒊𝒂𝒍 -𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒖𝒔𝒊𝒏𝒈 𝑺𝒖𝒃𝒔𝒕𝒊𝒕𝒖𝒕𝒊𝒐𝒏 𝑴𝒆𝒕𝒉𝒐𝒅</a> </h3>
+
+<h3><a href="https://github.com/AvinandanBose/Factorial/blob/main/4.Factorial%20Time%20Complexity%20using%20Recursion%20Tree%20Method.pdf">𝑭𝒂𝒄𝒕𝒐𝒓𝒊𝒂𝒍 -𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒖𝒔𝒊𝒏𝒈 𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏 𝑻𝒓𝒆𝒆 𝑴𝒆𝒕𝒉𝒐𝒅</a> </h3>
+
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/factorial.cpp">𝑭𝒂𝒄𝒕𝒐𝒓𝒊𝒂𝒍 𝑷𝒓𝒐𝒈𝒓𝒂𝒎 𝒊𝒏 𝑪++ </a>  𝒊𝒏 <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/">𝑪++ 𝑫𝒂𝒕𝒂 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆 𝑹𝒆𝒑𝒐</a></h3>
+
+
+
+</ul>
+
 ## Contents
 
 1. **Factorial - Introduction** (`1.Factorial-Introduction.pdf`)
