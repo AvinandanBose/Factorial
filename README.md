@@ -43,6 +43,61 @@ This repository contains a collection of documents that provide an in-depth anal
    - Breakdown of the time complexity using the recursion tree method.
    - Graphical representation of recursive calls and their contribution to overall complexity.
    - Derivation of asymptotic complexity.
+  
+
+5. **Factorial - Growth Rate of Output vs Time Complexity** (`5.Factorial - Growth Rate of Output vs Time Complexity.pdf`)
+
+   * Clear distinction between:
+
+     * **Growth of output** → ( n! ) (factorial value)
+     * **Time complexity of algorithm** → ( O(n) )
+   * Explanation of why:
+
+     * Output grows **super-exponentially**
+     * Algorithm runs in **linear time**
+   * Common misconceptions clarified (important for exams & interviews)
+
+
+6. **Factorial - Detailed Analysis of Space Complexity** (`6.Factorial - Detailed Analysis of Space Complexity.pdf`)
+
+   * In-depth breakdown of:
+
+     * **Input Space (Parametric vs Holistic)**
+     * **Auxiliary Space (Recursion Stack)**
+   * Explanation of stack frame behavior in recursion
+   * Final derivation:
+
+     * Space Complexity = ( O(n) )
+   * Comparison with iterative approach
+
+---
+
+## 📌 Key Learning Outcomes
+
+* Understand factorial from **mathematical and algorithmic perspectives**
+* Master **time complexity analysis** using:
+
+  * Substitution method
+  * Recursion tree
+* Clearly distinguish:
+
+  * **Output growth vs algorithm complexity**
+* Gain deep insight into:
+
+  * **Stack behavior in recursion**
+  * **Space complexity decomposition**
+
+---
+
+## ⚠️ Important Insight
+
+> **Factorial output grows as ( n! ), but the algorithm runs in ( O(n) ) time.**
+
+This distinction is crucial and often misunderstood.
+
+---
+
+
 
 ## Usage
 
@@ -57,4 +112,24 @@ This repository is shared for learning purposes. Please cite appropriately if us
 
 Contributions and suggestions are welcome! Feel free to open an issue or submit a pull request if you have additional insights or corrections.
 
+## 📜 License
 
+This project is open-source and available under the MIT License.
+
+---
+
+
+## 👨‍💻 Author
+
+**Avinandan Bose**
+- GitHub: [@AvinandanBose](https://github.com/AvinandanBose)
+
+---
+
+
+
+## ⭐ Support
+
+If you found this useful, consider giving it a ⭐ on GitHub!
+
+---
