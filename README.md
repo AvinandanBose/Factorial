@@ -12,6 +12,12 @@ This repository contains a collection of documents that provide an in-depth anal
 
 <h3><a href="https://github.com/AvinandanBose/Factorial/blob/main/4.Factorial%20Time%20Complexity%20using%20Recursion%20Tree%20Method.pdf">𝑭𝒂𝒄𝒕𝒐𝒓𝒊𝒂𝒍 -𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒖𝒔𝒊𝒏𝒈 𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏 𝑻𝒓𝒆𝒆 𝑴𝒆𝒕𝒉𝒐𝒅</a> </h3>
 
+<h3><a href="https://github.com/AvinandanBose/Factorial/blob/main/5.Factorial%20-%20Growth%20Rate%20of%20Output%20vs%20Time%20Complexity.pdf">𝑭𝒂𝒄𝒕𝒐𝒓𝒊𝒂𝒍 -𝑮𝒓𝒐𝒘𝒕𝒉 𝑹𝒂𝒕𝒆 𝒐𝒇 𝑶𝒖𝒕𝒑𝒖𝒕 𝒗𝒔 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</a> </h3>
+
+<h3><a href="https://github.com/AvinandanBose/Factorial/blob/main/5.Factorial%20-%20Growth%20Rate%20of%20Output%20vs%20Time%20Complexity.pdf">𝑭𝒂𝒄𝒕𝒐𝒓𝒊𝒂𝒍 -𝑮𝒓𝒐𝒘𝒕𝒉 𝑹𝒂𝒕𝒆 𝒐𝒇 𝑶𝒖𝒕𝒑𝒖𝒕 𝒗𝒔 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</a> </h3>
+
+<h3><a href="https://github.com/AvinandanBose/Factorial/blob/main/6.Factorial%20Recursive-Space%20Complexity(Detailed%20Analysis).pdf">𝑭𝒂𝒄𝒕𝒐𝒓𝒊𝒂𝒍 -𝑫𝒆𝒕𝒂𝒊𝒍𝒆𝒅 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒐𝒇 𝒕𝒉𝒆 𝑺𝒑𝒂𝒄𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 </a> </h3>
+
 <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/factorial.cpp">𝑭𝒂𝒄𝒕𝒐𝒓𝒊𝒂𝒍 𝑷𝒓𝒐𝒈𝒓𝒂𝒎 𝒊𝒏 𝑪++ </a>  𝒊𝒏 <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/">𝑪++ 𝑫𝒂𝒕𝒂 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆 𝑹𝒆𝒑𝒐</a></h3>
 
 
